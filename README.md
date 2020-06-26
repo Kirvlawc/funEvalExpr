@@ -21,7 +21,7 @@ The program handles:
 
 As specified earlier, the focus of this project was to become more familiar with the parsing capabilities of Haskell programming language. The following diagram shows the flow of devolopment during the project. The input stream is first transformed into a list of tokens. That list of tokens is then parsed to form an expression tree which is then evaluated if the the expression was valid.
 
-![program_flow](img/program-diagram.png)
+![program_flow](img/program-diagram.PNG)
 
 
 All parser and combinator logic was built around the following type:
