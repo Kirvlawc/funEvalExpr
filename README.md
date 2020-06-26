@@ -33,7 +33,7 @@ newtype TkParser a = TkParser {
 
 ## Setup
 ```
-$ cd ../funEvalExpr
+$ cd ./funEvalExpr
 $ make
 ```
 
