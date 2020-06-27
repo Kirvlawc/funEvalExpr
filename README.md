@@ -39,4 +39,4 @@ $ make
 
 ## Examples
 
-![program_flow](img/examples.PNG)
+![examples_img](img/examples.PNG)
