@@ -1,4 +1,4 @@
-# funEvalExpr
+#  :heavy_division_sign: Functional Expression Evaluator
 
 ## Table of contents
 * [Introduction](#introduction)
